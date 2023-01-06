@@ -1,4 +1,4 @@
-###Desarrolladora front-end :hi:
+###Desarrolladora front-end 
 
 Encantada de presentarme, mi nombre es Rebeca y me encanta crear nuevos proyectos dentro del desarrollo web, aquí abajo tenéis unos ejemplos. ¡Espero que os gusten!
 
@@ -12,4 +12,4 @@ Estudiante en Adalab https://adalab.es/
 
 ###Links 
 
--  :computer:  www.linkedin.com/in/rebeca-gomez-castillejos
+-  www.linkedin.com/in/rebeca-gomez-castillejos
